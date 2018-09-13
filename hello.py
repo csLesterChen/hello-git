@@ -1,2 +1,2 @@
-print"Hello python & github"
-# hi, this is comment
+print("Hello python & github")
+print('I am Lester')
